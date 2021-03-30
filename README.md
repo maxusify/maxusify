@@ -1,6 +1,6 @@
 # Welcome, fellow visitor! 👋
 
-My name is Michał - just a curious guy with huge interest in programming and IT in general. Currently, working on somepersonal projects and learning new stuff!
+My name is Michał - just a curious guy with huge interest in programming and IT in general. Currently, working on some personal projects and learning new stuff!
 
 **What I love:**
 - All things related to JavaScript.
