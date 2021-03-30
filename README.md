@@ -16,9 +16,15 @@ My name is Michał - just a curious guy with huge interest in programming and IT
 **Technologies, programming languages and stuff that I already know:**
 - C/C++ (I prefer plain C)
 - Python
-- JavaScript
+- Django
+- JavaScript with Node
 - Linux Kernel Modules
 - Responsive Web Design
+
+**What I would like to know:**
+- More about cybersecurity
+- Serverless technologies
+- Encryption and things related to this topic
 
 And that's it for now. Still working on properly describing myself... 😅
 <!---
