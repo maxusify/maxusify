@@ -3,22 +3,19 @@
 My name is Michał - just a curious guy with huge interest in programming and IT in general. Currently, working on some personal projects and learning new stuff!
 
 **What I love:**
-- All things related to JavaScript.
+- All things related to JavaScript and programming.
 - Optimizing stuff, making something more effective and prettier.
 - Creating things and care about them.
 
 **Currently gaining knowledge about:**
-- Next.js
-- Discord.js
 - Java
 - Rust
+- Godot Game Engine
 
 **Technologies, programming languages and stuff that I already know:**
 - C/C++ (I prefer plain C)
-- Python
-- Django
+- Python with Django
 - JavaScript with Node
-- Linux Kernel Modules
 - Responsive Web Design
 
 **What I would like to know:**
@@ -27,7 +24,3 @@ My name is Michał - just a curious guy with huge interest in programming and IT
 - Encryption and things related to this topic
 
 And that's it for now. Still working on properly describing myself... 😅
-<!---
-maxusify/maxusify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
