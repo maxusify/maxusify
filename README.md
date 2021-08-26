@@ -13,10 +13,10 @@ My name is Michał - just a curious guy with huge interest in programming and IT
 - Godot Game Engine
 
 **Technologies, programming languages and stuff that I already know:**
-- C/C++ (I prefer plain C)
 - Python with Django
 - JavaScript with Node
 - Responsive Web Design
+- C language.
 
 **What I would like to know:**
 - More about cybersecurity
