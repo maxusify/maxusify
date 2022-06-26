@@ -10,18 +10,12 @@ My name is Michał - just a curious guy with huge interest in programming and IT
 **Currently gaining knowledge about:**
 - Rust
 - Godot Game Engine
-- Frontend frameworks and libraries
+- Frontend technologies
+- Backend technologies
 
-**Technologies, programming languages and stuff that I already know:**
-- Python (Django)
-- JavaScript with Node (React, Express, Prisma, Chakra-UI)
-- Responsive Web Design
-- C/C++ language
-- GNU/Linux environment
-
-**What I would like to know:**
+**What I would like to learn:**
 - More about cybersecurity
 - Serverless technologies
-- Encryption and things related to this topic
+- Docker
 
 And that's it for now. Still working on properly describing myself... 😅
