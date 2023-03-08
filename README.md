@@ -3,19 +3,18 @@
 My name is Michał - just a curious guy with huge interest in programming and IT in general. Currently, working on some personal projects and learning new stuff!
 
 **What I love:**
-- All things related to coding and creating software.
-- Optimizing stuff, making something more effective and prettier.
-- Creating things and care about them.
+- All things related to coding and making software
+- Making efficient things
+- Learn how to make them even more efficient in every way possible
 
 **Currently gaining knowledge about:**
-- Rust
-- Godot Game Engine
-- Frontend technologies
-- Backend technologies
+- Rust  
+- Frontend: React, NextJS, Angular  
+- Backend: Axum, Express  
+- Styling: Sass, TailwindCSS  
+- Design: Figma  
+- Working as a team  
 
 **What I would like to learn:**
-- More about cybersecurity
-- Serverless technologies
-- Docker
-
-And that's it for now. Still working on properly describing myself... 😅
+- Cybersecurity  
+- Serverless technologies  
