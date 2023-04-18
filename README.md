@@ -1,20 +1,19 @@
 # Welcome, fellow visitor! 👋
 
-My name is Michał - just a curious guy with huge interest in programming and IT in general. Currently, working on some personal projects and learning new stuff!
+Hi there! Welcome to my GitHub profile! I'm a software developer with a passion for building elegant, efficient, and scalable solutions. My experience spans across various domains, including web development and game development. I love working with open-source technologies and collaborating with other developers to build innovative solutions. 
 
 **What I love:**
-- All things related to coding and making software
-- Making efficient things
-- Learn how to make them even more efficient in every way possible
+- Linux and Rust
+- Making efficient software
+- Learning new and exotic technologies
 
 **Currently gaining knowledge about:**
-- Rust  
-- Frontend: React, NextJS, Angular  
-- Backend: Axum, Express  
-- Styling: Sass, TailwindCSS  
-- Design: Figma  
-- Working as a team  
+- Advanced Rust stuff and its libraries
+- React good practices
+- Making backend and APIs
+- Game development stuff
 
-**What I would like to learn:**
-- Cybersecurity  
-- Serverless technologies  
+**What I am working on right now?**
+- Starbound clone game but following my vision (Bevy Engine with Rust)
+- Sideshooter in Space with focus on audio-visual effects (Godot Engine 4.x)
+- Personal website (Astro, TailwindCSS, Vercel)
